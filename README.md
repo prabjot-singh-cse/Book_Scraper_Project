@@ -46,6 +46,30 @@ market analysis, academic research & data analytics.
 ✔ Internship Report (PDF + DOCX)
 
 ---
+## 📸 Screenshots  
+
+| Code Running | CSV Output | Excel Output |
+|-------------|------------|--------------|
+| ![](https://github.com/prabjot-singh-cse/Book_Scraper_Project/blob/main/screenshots/Screenshot%202025-12-31%20000140.png) | ![](https://github.com/prabjot-singh-cse/Book_Scraper_Project/blob/main/screenshots/Screenshot%202025-12-31%20000158.png) | ![](https://github.com/prabjot-singh-cse/Book_Scraper_Project/blob/main/screenshots/Screenshot%202025-12-31%20000258.png) |
+
+---
+
+## 👨‍💻 Developer — *Prabjot Singh*
+Passionate about Python Automation, DSA & Product-based Placement Prep 🚀
+
+📌 Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/prabjot-singh-7812142b9/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/prabjot-singh-cse)
+[![Hackerrank](https://img.shields.io/badge/Hackerrank-green?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/profile/prabjot58995)
+[![Codeforces](https://img.shields.io/badge/Codeforces-blue?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/Dictator111)
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:prabjot58995@gmail.com)
+
+---
+
+⭐ If you like this project, please drop a **Star** on GitHub! ⭐
+
+---
 
 ## 🧩 Code Demonstration
 
@@ -89,25 +113,3 @@ excel_file = "books_data.xlsx"
 df = pd.DataFrame(all_books, columns=["Title", "Price", "Rating", "Image URL"])
 df.to_excel(excel_file, index=False)
 
-## 📸 Screenshots  
-
-| Code Running | CSV Output | Excel Output |
-|-------------|------------|--------------|
-| ![](https://github.com/prabjot-singh-cse/Book_Scraper_Project/blob/main/screenshots/Screenshot%202025-12-31%20000140.png) | ![](https://github.com/prabjot-singh-cse/Book_Scraper_Project/blob/main/screenshots/Screenshot%202025-12-31%20000158.png) | ![](https://github.com/prabjot-singh-cse/Book_Scraper_Project/blob/main/screenshots/Screenshot%202025-12-31%20000258.png) |
-
----
-
-## 👨‍💻 Developer — *Prabjot Singh*
-Passionate about Python Automation, DSA & Product-based Placement Prep 🚀
-
-📌 Connect with me:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/prabjot-singh-7812142b9/)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/prabjot-singh-cse)
-[![Hackerrank](https://img.shields.io/badge/Hackerrank-green?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/profile/prabjot58995)
-[![Codeforces](https://img.shields.io/badge/Codeforces-blue?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/Dictator111)
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:prabjot58995@gmail.com)
-
----
-
-⭐ If you like this project, please drop a **Star** on GitHub! ⭐
