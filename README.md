@@ -67,7 +67,9 @@ Passionate about Python Automation, DSA & Product-based Placement Prep 🚀
 
 ---
 
+
 ⭐ If you like this project, please drop a **Star** on GitHub! ⭐
+
 
 ---
 
@@ -112,4 +114,5 @@ with open(csv_file, "w", newline="", encoding="utf-8") as f:
 excel_file = "books_data.xlsx"
 df = pd.DataFrame(all_books, columns=["Title", "Price", "Rating", "Image URL"])
 df.to_excel(excel_file, index=False)
+
 
